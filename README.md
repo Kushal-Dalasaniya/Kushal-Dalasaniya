@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **KushalDalasaniya2930@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WAwXplf6R4KOFsCMVUaniJcD2--PWSqG/view](https://drive.google.com/file/d/1WAwXplf6R4KOFsCMVUaniJcD2--PWSqG/view)
+- 📄 Know about my experiences see [My Portfolio](https://kushal-portfolio.cyclic.app/#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
