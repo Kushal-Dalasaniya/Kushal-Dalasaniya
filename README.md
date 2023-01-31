@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Blockchain development**
 
-- 👯 I’m looking to collaborate on **blockchain development Project using motoko Dfinity**
+- 👯 I’m looking to collaborate on **Blockchain Development **
 
-- 👨‍💻 All of my projects are available at [https://kushal-portfolio.onrender.com/](https://kushal-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://kushalportfolio.cyclic.app/#](https://kushalportfolio.cyclic.app/#)
 
 - 💬 Ask me about **React.js, node.js, Java, Spring boot**
 
 - 📫 How to reach me **KushalDalasaniya2930@gmail.com**
 
-- 📄 Know about my experiences see [My Portfolio](https://kushal-portfolio.cyclic.app/#)
+- 📄 Know about my experiences see [My Portfolio](https://kushalportfolio.cyclic.app/#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
