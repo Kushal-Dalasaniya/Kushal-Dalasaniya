@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Development **
 
-- 👨‍💻 All of my projects are available at [https://kushalportfolio.cyclic.app/#](https://kushaldalasaniya.in/)
+- 👨‍💻 All of my projects are available at [(https://kushaldalasaniya.in/](https://kushaldalasaniya.in/)
 
 - 💬 Ask me about **React.js, node.js, Java, Spring boot**
 
