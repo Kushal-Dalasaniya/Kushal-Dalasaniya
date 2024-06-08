@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Development **
 
-- 👨‍💻 All of my projects are available at [https://kushalportfolio.cyclic.app/#](https://kushalportfolio.cyclic.app/#)
+- 👨‍💻 All of my projects are available at [https://kushalportfolio.cyclic.app/#](https://kushaldalasaniya.in/)
 
 - 💬 Ask me about **React.js, node.js, Java, Spring boot**
 
 - 📫 How to reach me **KushalDalasaniya2930@gmail.com**
 
-- 📄 Know about my experiences see [My Portfolio](https://kushalportfolio.cyclic.app/#)
+- 📄 Know about my experiences see [My Portfolio](https://kushaldalasaniya.in/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
